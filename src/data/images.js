@@ -1,5 +1,5 @@
-import bunny from "../images/bunny.jpg";
-import fawn from "../images/piebald.jpg";
+import bunny from "../images/bunny.jpeg";
+import fawn from "../images/piebald.jpeg";
 
 export const images = [
     {

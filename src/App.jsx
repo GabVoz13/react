@@ -5,7 +5,7 @@ import { images } from "./data/images.js";
 export default function App() {
     return (
         <div style={{ maxWidth: 900, margin: "0 auto", padding: 24 }}>
-            <h1>My Bunny & Fawn Gallery</h1>
+            <h1>My Gallery</h1>
             <Gallery items={images} />
         </div>
     );
